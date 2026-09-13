@@ -2,7 +2,7 @@
 A modern and responsive WordPress website designed with Elementor and the Phlox theme.
 
 ## 📸 Website Preview
-![StarTer Website Preview](starter-homepage.png)
+![StarTer Website Preview](starter-local.png)
 
 ##  Project Overview
 StarTer is a modern website concept focused on clean design, responsive layouts, and a user-friendly browsing experience.
